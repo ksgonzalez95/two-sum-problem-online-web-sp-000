@@ -5,5 +5,5 @@ function twoSum(sum, a){
 
 }
 
-twoSum()
+twoSum(6)
 // [ [5, 1] ]
